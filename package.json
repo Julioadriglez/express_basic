@@ -1,0 +1,22 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Creación mi primer server con Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julioadriglez/express_basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julioadriglez/express_basic/issues"
+  },
+  "homepage": "https://github.com/Julioadriglez/express_basic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
